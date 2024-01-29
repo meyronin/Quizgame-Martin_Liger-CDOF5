@@ -5,6 +5,8 @@ class QuizGame:
 
     def ask_question(self, question):
         print(question.question)
+        for option in question.options:
+            print(option)
         user_answer = input("Your answer: ")
         if question.check_answer(user_answer):
             print("Correct!")
