@@ -4,7 +4,7 @@ class QuizGame:
         self.score = 0
 
     def ask_question(self, question):
-        print(question)
+        print(question.question)
         user_answer = input("Your answer: ")
         if question.check_answer(user_answer):
             print("Correct!")
