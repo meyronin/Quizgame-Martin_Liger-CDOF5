@@ -50,9 +50,9 @@ The quiz questions are defined in the `main.py` file under the questions list. Y
 
 ## Authors
 
-* **Martin Liger** - _Initial work_ - [Meyronin](https://github.com/Meyronin)
-* **Malvin Noël** - _Added feature_ - [AIMalvin](https://github.com/AIMalvin)
-* **Emma Kilbertus** - _Added feature_ - [emkbt](https://github.com/emkbt)
+* **Martin Liger** - *Initial work* - [Meyronin](https://github.com/Meyronin)
+* **Malvin Noël** - *Added feature* - [AIMalvin](https://github.com/AIMalvin)
+* **Emma Kilbertus** - *Added feature* - [emkbt](https://github.com/emkbt)
 
 ## License
 
