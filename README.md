@@ -8,7 +8,12 @@ These instructions will help you set up the project on your local machine for an
 
 ### Prerequisites
 
-Ensure you have Python installed on your machine.
+Before you begin, ensure you meet the following requirements:
+
+- **Python**: The game is written in Python, so you must have Python 3.6 or newer installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+
+- **Git** (Optional): If you plan to clone the repository, having Git installed on your machine will make it easier. Download it from [git-scm.com](https://git-scm.com/downloads).
+
 
 ### Installing
 
